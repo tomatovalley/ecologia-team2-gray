@@ -8,6 +8,6 @@ Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
 
 ## Integrantes
 - Angel David Roque Ayala
-- Camilo Rendón 251384
+- Camilo Rendón 251
 - Nico Velásquez
 
