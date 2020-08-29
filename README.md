@@ -9,4 +9,5 @@ Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
 ## Integrantes
 - Angel David Roque Ayala
 - Camilo Rendón
+- Nico Velásquez
 
