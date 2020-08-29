@@ -8,12 +8,8 @@ Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
 
 ## Integrantes
 - Angel David Roque Ayala
-<<<<<<< HEAD
 - Camilo Rendón
 - Nico Velásquez
-
-=======
-- Camilo Rendón 251
-- Nicolás Velásquez
 - Giselle Rizo
->>>>>>> e6c5d6b729f45f12e0881c894534757e549c2db5
+- 
+
