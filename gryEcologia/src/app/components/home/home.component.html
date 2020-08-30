@@ -36,7 +36,7 @@
                   <div class="input-group-append"></div>
                 </div>
               </div>
-              <div class="form-group"><button class="btn btn-primary btn-lg text-white" style="width: 100%;background-color: #a3d4a4;" type="button">Iniciar</button></div>
+              <div class="form-group"><button class="btn btn-primary btn-lg text-white" style="width: 100%;background-color: #a3d4a4;" type="submit">Iniciar</button></div>
             </form>
             <hr style="background-color: #bababa;">
             <p class="text-center">Me late que olvidaste la&nbsp;<a class="text-decoration-none" href="#">contraseña?</a></p>
@@ -54,7 +54,7 @@
           <div class="modal-body">
             <div class="text-center"><button class="btn btn-primary text-left" style="width: 100%;" type="button"><i class="fa fa-facebook"></i>&nbsp; Continuar con Facebook</button></div>
             <div class="text-center mt-2"><button class="btn btn-light text-left border-dark" style="width: 100%;" type="button"><i class="fa fa-google"></i>&nbsp; Continuar con Google</button></div>
-            <form class="mt-4">
+            <form class="mt-4" [formGroup]="registerForm" (ngSubmit)="onRegister()">
               <div class="form-group">
                 <div class="input-group">
                   <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-user-o"></i></span></div><input class="form-control" type="text" required="" placeholder="Nombre">
@@ -63,20 +63,20 @@
               </div>
               <div class="form-group">
                 <div class="input-group">
-                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-envelope-o"></i></span></div><input class="form-control" type="email" required="" placeholder="Email">
+                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-envelope-o"></i></span></div><input class="form-control" type="email" required="" placeholder="Email" formControlName="email">
                   <div class="input-group-append"></div>
                 </div>
               </div>
               <div class="form-group">
                 <div class="input-group">
-                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-lock"></i></span></div><input class="form-control" type="password" required="" placeholder="Contraseña">
+                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-lock"></i></span></div><input class="form-control" type="password" required="" placeholder="Contraseña" formControlName="password">
                   <div class="input-group-append"></div>
                 </div>
               </div>
               <div class="form-group">
                 <div class="form-check"><input class="form-check-input" type="checkbox" id="formCheck-1" required="" checked=""><label class="form-check-label" for="formCheck-1">Estoy de acuerdo con los términos</label></div>
               </div>
-              <div class="form-group"><button class="btn btn-primary btn-lg text-white" style="width: 100%;background-color: #e27474 ;" type="button">Regístrar</button></div>
+              <div class="form-group"><button class="btn btn-primary btn-lg text-white" style="width: 100%;background-color: #e27474 ;" type="submit">Regístrar</button></div>
             </form>
             <hr style="background-color: #bababa;">
             <p class="text-center">Ya tienes cuenta?&nbsp;<a class="text-decoration-none" data-dismiss="modal" data-toggle="modal" data-target="#signup" href="#">Iniciar sesión</a></p>

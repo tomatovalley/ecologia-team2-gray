@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gry-ecology": {
+      "hosting": {
+        "gryEcologia": [
+          "gry-ecology"
+        ]
+      }
+    }
+  }
+}

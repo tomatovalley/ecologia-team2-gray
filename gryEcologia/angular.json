@@ -13,6 +13,19 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "allowedCommonJsDependencies": [
+              "lodash",
+              "firebase",
+              "@angular/common/locales/fr",
+              "lodash/dropRight",
+              "@firebase/app",
+              "firebase/app",
+              "@firebase/database",
+              "@firebase/firestore",
+              "@firebase/functions",
+              "@firebase/performance",
+              "@firebase/remote-config"
+            ],
             "outputPath": "dist/gryEcologia",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -29,9 +42,7 @@
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-
               "node_modules/@popperjs/core/dist/umd/popper.min.js",
-
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
@@ -124,6 +135,10 @@
               "devServerTarget": "gryEcologia:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
