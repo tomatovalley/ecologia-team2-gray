@@ -1,12 +1,12 @@
-# Equipo Team Gry
+# Team 2: Gry
 
 ## Índice
 
 * [1. Gry](#1-Gry)
-* [2. Características](#2-Características)
-* [3. Soluciones](#3-Soluciones)
-* [4. Diagrama de flujo](#4-Diagrama-de-flujo)
-* [5. Busqueda de diseño](#5-Busqueda-de-diseño)
+* [2. Problemática](#2-Problemática)
+* [3. Características](#3-Características)
+* [4. Soluciones](#4-Soluciones)
+* [5. Búsqueda de diseño](#5-Busqueda-de-diseño)
 * [6.Historias de usuario](#6-Historias-de-usuario)
 * [7.Integrantes](#7-Integrantes)
 
@@ -16,35 +16,56 @@
 ***
 
 ## 1. Gry
-App ecológica que quiere fomentar medios alternativos de transporte o la caminata al desplazarnos a otros lugares
 
+En la actualidad el mayor contaminante de nuestro planeta son los combustibles fósiles, por lo cual vimos la necesidad de ayudar con el cambio de mentalidad de las personas y así incentivarlas a que dejen de usar transporte público o vehículos particulares que trabajen con estos contaminantes y emigren a el uso de alternativas que tengan cero emisión de gases perjudiciales para la salud y el medio ambiente. Por este motivo, decidimos crear nuestra App ecológica llamada **GRY** que busca fomentar medios alternativos de transporte como bicicletas, patinetas eléctricas o caminatas. 
+Nuestra App mostrará los lugares turísticos y comerciales cercanos a nuestra ubicación  como restaurantes y hoteles con recomendaciones, promociones y lugares destacados y nos otorgará recompensas al cumplir metas que podremos intercambiar en estos establecimientos.  
+Estas metas consisten en que cada usuario debe viajar hasta estos establecimientos pero en un medio de transporte alternativo como los anteriormente mencionados y si se cumple con satisfacción estos retos de acumulacion de kilómetros, se podrán obtener recompensas que incluyen desde descuentos en artículos específicos e incluso obtener artículos gratis.. 
 
-## 2. Características 
+En conclusión, nuestra app busca contribuir con el mejoramiento del medio ambiente, también ayudará con la salud de los usuarios que realicen esta actividad física. y contribuirá en la economía de los establecimientos que participen en nuestra plataforma ya que los hará más visible ante nuevos usuarios y/o turistas que vean sus negocios en nuestra app ecológica.
 
-- Reduce la emisión de gases de efecto invernadero (GEI).
-- Promueve la actividad física con el uso de medios alternativos de transporte como la bicicleta, monopatín eléctrico y las caminatas.
+## 2.Problemática
+
+En México, según la Encuesta Nacional de Salud y Nutrición 2016, solamente el 17.2 por ciento de los niños y adolescentes de entre los 10 y 14 años de edad, se ejercitan lo necesario, es decir, 60 minutos diarios de actividad física moderada, mientras que en los adultos, el 14.4 por ciento no cumplen con la recomendación de actividad física de la OMS, los cuales equivalen a 15 minutos a la semana.
+
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/problematica.png">
 
 
 ## 3. Soluciones
 
-## 4. Diagrama de flujo
+Brindar en una app un incentivo para la motivación de una persona sedentaria que desea cambiar su estilo de vida y su armonía física, como también dejar una huella en el planeta protegiéndolo de la contaminación que produce los automóviles, además se apoyará a microempresarios y establecimientos con la  promoción de sus locales en nuestra plataforma.  
+
+¿Cómo lo hacemos?
+
+La app recomendará lugares turísticos y no turísticos que valen la pena visitar.
+Antes de comenzar la persona puede ver el lugar y una breve descripción de qué trata y el premio obtenido por ir hasta el. 
+Los premios dependen de las distancias recorridas del usuario.
+existen diferentes tipos de premios tales como: puntos acumulados y cupones de descuento.
+La persona tendrá la opción de ir caminando o en bicicleta, para conseguir las metas, que serían llegar a los lugares previstos en la app.
+
+
+## 4. Características 
+
+- Reduce la emisión de gases de efecto invernadero (GEI).
+- Promueve la actividad física con el uso de medios alternativos de transporte como la bicicleta, monopatín eléctrico y las caminatas.
+- Ayuda a esos locales que tienen algo bueno que brindar pero no tienen los recursos para publicidad.
+
+
+
 
 ## 5. Decisiones de diseño
+ 
+
 
 ### Prototipo
 
-### Paleta de color
+### Paleta de color 
 
-- Paleta de color 
+La paleta de color para **Gry** es dinámica, su modalidad es transmitir dinamismo y una sensación amigable para el usuario. Con las tonalidades verdes refleja una cercanía con la naturaleza, en cuanto a los colores cercanos al magenta reflejan una armonía física y emocional, dando ánimos y autoestima a la persona que use la app.
 
-La paleta de color para **Gry** es dinamica 
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/paletTeColorGry.png">
 
-<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gryEcologia/src/assets/image/paletTeColorGry.png">
 
 ### Logo
-
-
-- Font elegida
 
 En cuanto a la tipografía, se deseaba conseguir una rápida lectura y una fuente amigable para el espectador, por esa razón se escogió Paytone One que se encuentra en Google font:
 
@@ -52,16 +73,29 @@ En cuanto a la tipografía, se deseaba conseguir una rápida lectura y una fuent
 
 También se necesitaba demostrar el amor por la naturaleza por eso se agregó de una manera sutil y divertida, un diseño cercano a la vegetación.
 
-<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gryEcologia/src/assets/image/logoGry.png">
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/logoGry.png">
   
 
 ## 6. Historias de usuario
 
+**Historia 1:**  Yo como usuario necesito un inicio (Home) 
+ **Quiero** conocer de qué se trata la app de manera clara
+ **Para** entenderlo bien de manera legible y con información breve.
+
+**Historia 2:**  Yo como usuario necesito 
+ **Quiero** 
+ **Para** 
+
+**Historia 3:**  Yo como usuario necesito 
+ **Quiero** 
+ **Para** 
+
+**Historia 4:**  Yo como usuario necesito 
+ **Quiero** 
+ **Para** 
+
 ## 7. Integrantes
-
-- Angel David Roque Ayala
-- Camilo Rendón
-- Giselle Rizo
-- Linda Rizo
-- Nicolás Velásquez
-
+Camilo Rendón
+Giselle Rizo
+Linda Rizo
+Nicolás Velásquez
