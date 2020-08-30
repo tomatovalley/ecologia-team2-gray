@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gry-ecologia"
+    }
+  },
+  "defaultProject": "gry-ecologia",
+  "cli": {
+    "analytics": false
+  }
 }
