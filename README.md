@@ -63,7 +63,11 @@ existen diferentes tipos de premios tales como: puntos acumulados y cupones de d
 
 
 ## 6. Decisiones de diseño
- 
+
+Decisiones y organización:
+
+[Trello](https://trello.com/b/ivI5Mpu3/gry-hackathon) 
+
 La app quiere ser más cercana con el usuario y se asignaron, nombres para cada uno de ellos:
 
 **Grynners**: es la persona que desea reducir la huella de carbono caminando, o con un medio de transporte amigable, hasta los lugares de destino, en vez de usar un automóvil.
@@ -104,17 +108,22 @@ Logo Final, (después de corrección con mentores)
 - **Quiero** conocer de qué se trata la app de manera clara
 - **Para** entenderlo bien de manera legible y con información breve.
 
-**Historia 2:**  Yo como usuario necesito 
-- **Quiero** 
-- **Para** 
+**Historia 2:**  Yo como usuario necesito ver los diferentes lugares a visitar de forma ordenada.
+ - **Quiero** Ver listado de opciones de lugares cercanos.
+ - **Para** Escoger el lugar que más me interese para visitar y/o comprar.
 
-**Historia 3:**  Yo como usuario necesito 
-- **Quiero** 
-- **Para** 
+**Historia 3:**  Yo como usuario necesito encontrar tiendas de productos orgánicos.
+ - **Quiero** comprometerme con el medio ambiente y hacer un cambio en mi forma de consumo.
+ - **Para** Ver lista de lugares con productos orgánicos para visitar y/o comprar.
 
-**Historia 4:**  Yo como usuario necesito 
-- **Quiero** 
-- **Para** 
+**Historia 4:**  Yo como usuario necesito guardar mis lugares favoritos.
+- **Quiero** Crear y guardar una lista de lugares favoritos.
+- **Para** Guardar mis lugares visitados que más me agradan. 
+
+**Historia 5:**  Yo como usuario necesito filtrar lugares por mis aficiones.
+ - **Quiero** Crear una cuenta con mis gustos y aficiones.
+ - **Para** Guardar información en una cuenta de usuario para personalizar recomendaciones.
+
 
 ## 8. Integrantes
 - Camilo Rendón
