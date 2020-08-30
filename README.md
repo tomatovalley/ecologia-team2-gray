@@ -71,7 +71,7 @@ En cuanto a la tipografía, se deseaba conseguir una rápida lectura y una fuent
 
 [Paytone One](https://fonts.google.com/specimen/Paytone+One)
 
-También se necesitaba demostrar el amor por la naturaleza por eso se agregó de una manera sutil y divertida, un diseño cercano a la vegetación.
+También se necesitaba demostrar el amor por la naturaleza por eso se agregó de una manera sútil y divertida, un diseño cercano a la vegetación.
 
 <img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/logoGry.png">
   
@@ -79,23 +79,23 @@ También se necesitaba demostrar el amor por la naturaleza por eso se agregó de
 ## 6. Historias de usuario
 
 **Historia 1:**  Yo como usuario necesito un inicio (Home) 
- **Quiero** conocer de qué se trata la app de manera clara
- **Para** entenderlo bien de manera legible y con información breve.
+- **Quiero** conocer de qué se trata la app de manera clara
+- **Para** entenderlo bien de manera legible y con información breve.
 
 **Historia 2:**  Yo como usuario necesito 
  **Quiero** 
  **Para** 
 
 **Historia 3:**  Yo como usuario necesito 
- **Quiero** 
- **Para** 
+- **Quiero** 
+- **Para** 
 
 **Historia 4:**  Yo como usuario necesito 
- **Quiero** 
- **Para** 
+- **Quiero** 
+- **Para** 
 
 ## 7. Integrantes
-Camilo Rendón
-Giselle Rizo
-Linda Rizo
-Nicolás Velásquez
+- Camilo Rendón
+- Giselle Rizo
+- Linda Rizo
+- Nicolás Velásquez
