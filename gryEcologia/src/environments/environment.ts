@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyD-EjyxKbBBd3A9s-IQ6ja097jCGPMiRc8",
+    authDomain: "gry-ecology.firebaseapp.com",
+    databaseURL: "https://gry-ecology.firebaseio.com",
+    projectId: "gry-ecology",
+    storageBucket: "gry-ecology.appspot.com",
+    messagingSenderId: "842654037984",
+    appId: "1:842654037984:web:9358fb4ccf68d347245d85"
+  },
 };
 
 /*
