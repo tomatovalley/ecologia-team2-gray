@@ -75,7 +75,9 @@ La app quiere ser más cercana con el usuario y se asignaron, nombres para cada 
 **Gry**: Es el nombre de la app y también el personaje que ayuda al medio ambiente, y aparecerá a ciertas personas que están en un nivel avanzado en la app.
 
 
-### Prototipo
+### Modelo canvas
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/GryModel-Canvas.jpg">
+
  
 ### Paleta de color 
 
