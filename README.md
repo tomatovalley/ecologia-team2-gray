@@ -2,8 +2,6 @@
 
 ## Índice
 
-## Índice
-
 * [1. Gry](#1-Gry)
 * [2. Problemática](#2-Problemática)
 * [3. Características](#3-Características)
@@ -70,15 +68,18 @@ Decisiones y organización:
 
 La app quiere ser más cercana con el usuario y se asignaron, nombres para cada uno de ellos:
 
-**Grynners**: es la persona que desea reducir la huella de carbono caminando, o con un medio de transporte amigable, hasta los lugares de destino, en vez de usar un automóvil.
-**Grystore**: esos locales que forman parte de la comunidad.
-**Gry**: Es el nombre de la app y también el personaje que ayuda al medio ambiente, y aparecerá a ciertas personas que están en un nivel avanzado en la app.
+- **Grynners**: es la persona que desea reducir la huella de carbono caminando, o con un medio de transporte amigable, hasta los lugares de destino, en vez de usar un automóvil.
+- **Grystore**: esos locales que forman parte de la comunidad.
+- **Gry**: Es el nombre de la app y también el personaje que ayuda al medio ambiente, y aparecerá a ciertas personas que están en un nivel avanzado en la app.
 
 
 ### Modelo canvas
 <img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/GryModel-Canvas.jpg">
 
- 
+### Diagrama de flujo 
+
+<img src="">
+
 ### Paleta de color 
 
 La paleta de color para **Gry** es dinámica, su modalidad es transmitir dinamismo y una sensación amigable para el usuario. Con las tonalidades verdes refleja una cercanía con la naturaleza, en cuanto a los colores cercanos al magenta reflejan una armonía física y emocional, dando ánimos y autoestima a la persona que use la app.
