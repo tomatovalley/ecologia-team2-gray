@@ -18,7 +18,9 @@
 ## 1. Gry
 
 En la actualidad el mayor contaminante de nuestro planeta son los combustibles fósiles, por lo cual vimos la necesidad de ayudar con el cambio de mentalidad de las personas y así incentivarlas a que dejen de usar transporte público o vehículos particulares que trabajen con estos contaminantes y emigren a el uso de alternativas que tengan cero emisión de gases perjudiciales para la salud y el medio ambiente. Por este motivo, decidimos crear nuestra App ecológica llamada **GRY** que busca fomentar medios alternativos de transporte como bicicletas, patinetas eléctricas o caminatas. 
-Nuestra App mostrará los lugares turísticos y comerciales cercanos a nuestra ubicación  como restaurantes y hoteles con recomendaciones, promociones y lugares destacados y nos otorgará recompensas al cumplir metas que podremos intercambiar en estos establecimientos.  
+
+Nuestra App mostrará los lugares turísticos y comerciales cercanos a nuestra ubicación  como restaurantes y hoteles con recomendaciones, promociones y lugares destacados y nos otorgará recompensas al cumplir metas que podremos intercambiar en estos establecimientos. 
+
 Estas metas consisten en que cada usuario debe viajar hasta estos establecimientos pero en un medio de transporte alternativo como los anteriormente mencionados y si se cumple con satisfacción estos retos de acumulación de kilómetros, se podrán obtener recompensas que incluyen desde descuentos en artículos específicos e incluso obtener artículos gratis.. 
 
 En conclusión, nuestra app busca contribuir con el mejoramiento del medio ambiente, también ayudará con la salud de los usuarios que realicen esta actividad física. y contribuirá en la economía de los establecimientos que participen en nuestra plataforma ya que los hará más visible ante nuevos usuarios y/o turistas que vean sus negocios en nuestra app ecológica.
@@ -103,7 +105,9 @@ Logo Final, (después de corrección con mentores)
 
 <img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/logoGryFinal.png">
 
-  
+ ### Prototipo
+
+ [Ver vistas del prototipo](https://github.com/tomatovalley/ecologia-team2-gray/tree/master/Prototipo) 
 
 ## 7. Historias de usuario
 
