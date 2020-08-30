@@ -8,7 +8,8 @@ import { AboutComponent } from './components/about/about.component';
 import { ProfileComponent } from './components/profile/profile.component';
 import { FeaturesComponent } from './components/features/features.component';
 import { FirtviewComponent } from './components/firtview/firtview.component';
-
+import { ChallengesComponent } from './components/challenges/challenges.component';
+import { PlacesComponent } from './components/places/places.component';
 
 const routes: Routes = [
   { path: '', pathMatch: 'full', redirectTo: '/home' },
@@ -16,6 +17,9 @@ const routes: Routes = [
   { path: 'navbar', component: NavbarComponent },
   { path: 'profile', component: ProfileComponent },
   { path: 'features', component: FeaturesComponent },
+  { path: 'firtview', component: FirtviewComponent },
+  { path: 'challenges', component: ChallengesComponent },
+  { path: 'places', component: PlacesComponent },
 
 ];
 

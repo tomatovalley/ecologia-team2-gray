@@ -9,7 +9,7 @@
 * [3. Características](#3-Características)
 * [4. Soluciones](#4-Soluciones)
 * [5. Financiamiento](#5-Financiamiento)
-* [6. Decisiones de diseño](#6- Decisiones-de-diseño)
+* [6. Decisiones de diseño](#6-Decisiones-de-diseño)
 * [7. Historias de usuario](#7-Historias-de-usuario)
 * [8. Integrantes](#8-Integrantes)
 * [9. Referencias bibliográficas](#9-Referencias-bibliográficas)
@@ -94,7 +94,7 @@ Propuesta de logo
 
 Logo Final, (después de corrección con mentores)
 
-<img src="">
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/logoGryFinal.png">
 
   
 
@@ -124,7 +124,7 @@ Logo Final, (después de corrección con mentores)
 
 ## 9. Referencias bibliográficas
 
-![Link sobre el sedentarismo](https://www.excelsior.com.mx/adrenalina/2017/02/07/1144936)
+[Link sobre el sedentarismo](https://www.excelsior.com.mx/adrenalina/2017/02/07/1144936)
  
-![Link Índices de emisiones de gases de efecto invernadero (GEI) en CDMX.](http://www.aire.cdmx.gob.mx/default.php?opc=%27ZKBhnmWkZA==%27)
+[Link Índices de emisiones de gases de efecto invernadero (GEI) en CDMX.](http://www.aire.cdmx.gob.mx/default.php?opc=%27ZKBhnmWkZA==%27)
 
