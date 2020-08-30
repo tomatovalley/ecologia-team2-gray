@@ -78,7 +78,7 @@ La app quiere ser más cercana con el usuario y se asignaron, nombres para cada 
 
 ### Diagrama de flujo 
 
-<img src="">
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gry-ecologia/src/assets/image/DiagramaDeFlujo.png">
 
 ### Paleta de color 
 
