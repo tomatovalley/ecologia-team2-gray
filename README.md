@@ -33,10 +33,18 @@ App ecológica que quiere fomentar medios alternativos de transporte o la camina
 
 ### Prototipo
 
+### Paleta de color
+
+- Paleta de color 
+
+La paleta de color para **Gry** es dinamica 
+
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gryEcologia/src/assets/image/paletTeColorGry.png">
+
 ### Logo
 
 
-Font elegida
+- Font elegida
 
 En cuanto a la tipografía, se deseaba conseguir una rápida lectura y una fuente amigable para el espectador, por esa razón se escogió Paytone One que se encuentra en Google font:
 
@@ -44,15 +52,16 @@ En cuanto a la tipografía, se deseaba conseguir una rápida lectura y una fuent
 
 También se necesitaba demostrar el amor por la naturaleza por eso se agregó de una manera sutil y divertida, un diseño cercano a la vegetación.
 
-<img src="">
+<img src="https://github.com/tomatovalley/ecologia-team2-gray/blob/master/gryEcologia/src/assets/image/logoGry.png">
   
 
 ## 6. Historias de usuario
 
 ## 7. Integrantes
-Angel David Roque Ayala
-Camilo Rendón
-Giselle Rizo
-Linda Rizo
-Nicolás Velásquez
+
+- Angel David Roque Ayala
+- Camilo Rendón
+- Giselle Rizo
+- Linda Rizo
+- Nicolás Velásquez
 
