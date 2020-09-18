@@ -1,0 +1,107 @@
+    <!-- Start: Login Signup in Modal -->
+  <div class="container-fluid">
+    <nav class="navbar navbar-light navbar-expand-md sticky-top bg" style="background-color: #F6F9FA;">
+      <div class="container-fluid">
+        <div routerLink='/home'>
+          <img src="/assets/image/logoGryFinal.png" style="width: 100px;">
+        </div>
+        <button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse"
+             id="navcol-1" style="width: 100px;">
+          <ul class="nav navbar-nav">
+            <li class="nav-item" role="presentation"></li>
+            <li class="nav-item" role="presentation"></li>
+            <li class="nav-item" role="presentation"></li>
+          </ul><buttom class="btn" routerLink='/about' style="color: black;">¿Quiénes somos?</buttom><a href="/Retosdiarios.html" style="color: black;">&nbsp; Retos Diarios</a>
+          <ul class="nav navbar-nav ml-auto">
+            <li class="nav-item" role="presentation"><button class="btn btn-outline-primary mr-4" data-toggle="modal" data-target="#signup" type="button" style="border-color: #cce4c4;color: black;background-color: #cce4c4;">Iniciar sesión</button></li>
+            <li class="nav-item" role="presentation"><button class="btn btn-primary" data-toggle="modal" data-target="#signin" type="button" style="background-color: #d6e48f;color: black;">Regístrarte</button></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <br />
+
+
+    <div routerLink='/home'>
+      <img src="/assets/image/logoGryFinal.png" style="width: 300px;">
+    </div>
+
+    <h1>Conviertete en verde</h1>
+
+    <div class="modal fade" role="dialog" tabindex="-1" id="signup">
+      <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Iniciar Sesión</h4><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <div class="input-group">
+                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-envelope-o"></i></span></div><input class="form-control" type="email" required="" placeholder="Email">
+                  <div class="input-group-append"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="input-group">
+                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-lock"></i></span></div><input class="form-control" type="password" required="" placeholder="Contraseña">
+                  <div class="input-group-append"></div>
+                </div>
+              </div>
+              <div class="form-group"><button class="btn btn-primary btn-lg text-white" style="width: 100%;background-color: #a3d4a4;" type="button">Iniciar</button></div>
+            </form>
+            <hr style="background-color: #bababa;">
+            <p class="text-center">Me late que olvidaste la&nbsp;<a class="text-decoration-none" href="#">contraseña?</a></p>
+            <p class="text-center">No tienes cuenta? &nbsp;<a class="text-decoration-none" data-dismiss="modal" data-toggle="modal" data-target="#signin" href="#">Regístrate</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" role="dialog" tabindex="-1" id="signin">
+      <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Regístrate apúrale !</h4><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+          </div>
+          <div class="modal-body">
+            <div class="text-center"><button class="btn btn-primary text-left" style="width: 100%;" type="button"><i class="fa fa-facebook"></i>&nbsp; Continuar con Facebook</button></div>
+            <div class="text-center mt-2"><button class="btn btn-light text-left border-dark" style="width: 100%;" type="button"><i class="fa fa-google"></i>&nbsp; Continuar con Google</button></div>
+            <form class="mt-4">
+              <div class="form-group">
+                <div class="input-group">
+                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-user-o"></i></span></div><input class="form-control" type="text" required="" placeholder="Nombre">
+                  <div class="input-group-append"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="input-group">
+                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-envelope-o"></i></span></div><input class="form-control" type="email" required="" placeholder="Email">
+                  <div class="input-group-append"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="input-group">
+                  <div class="input-group-prepend"><span class="text-primary input-group-text"><i class="fa fa-lock"></i></span></div><input class="form-control" type="password" required="" placeholder="Contraseña">
+                  <div class="input-group-append"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="form-check"><input class="form-check-input" type="checkbox" id="formCheck-1" required="" checked=""><label class="form-check-label" for="formCheck-1">Estoy de acuerdo con los términos</label></div>
+              </div>
+              <div class="form-group"><button class="btn btn-primary btn-lg text-white" style="width: 100%;background-color: #e27474 ;" type="button">Regístrar</button></div>
+            </form>
+            <hr style="background-color: #bababa;">
+            <p class="text-center">Ya tienes cuenta?&nbsp;<a class="text-decoration-none" data-dismiss="modal" data-toggle="modal" data-target="#signup" href="#">Iniciar sesión</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- End: Login Signup in Modal -->
+<!-- Start: Map locations 2 --><div class="map-legend" id="map-legend"></div>
+<div id='map'></div>
+<!-- End: Map locations 2 -->
+<!-- Start: Neon Tube Text Effects -->
+<div></div>
+

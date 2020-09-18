@@ -1,0 +1,14 @@
+Paleta de color
+     #a3d4a4 Verde luz
+     #cee3c4 Verde claro 
+     #d7e28e Verde lima
+     #e27474 magenta
+     #ec959e rosa
+
+colores constantes
+
+     #040707 casi negro
+     #2B2B2B gris oscuro
+     #4D4D4D gris  
+     #777777 gris claro    
+     #F6F9FA casi blanco
